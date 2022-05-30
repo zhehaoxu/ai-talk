@@ -6,3 +6,6 @@
 
 # TVM
 1. [其一 runtime运行时](./TVM/%E5%85%B6%E4%B8%80%20runtime%E8%BF%90%E8%A1%8C%E6%97%B6.md)
+
+# MLIR
+1. [其一 缘起与Toy初步](./MLIR/%E5%85%B6%E4%B8%80%20%E7%BC%98%E8%B5%B7%E4%B8%8EToy%E5%88%9D%E6%AD%A5.md)
